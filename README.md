@@ -1,6 +1,6 @@
 # Mechamusume（机娘）
 Preset-logic response system for artificial affective terminal — based on causal-chain architecture.
-基于逻辑因果律的机娘回应系统原型。
+- 基于逻辑因果律的机娘回应系统原型。
 
 ## 核心架构
 
@@ -16,8 +16,9 @@ Preset-logic response system for artificial affective terminal — based on caus
 
 ## 可拆卸模块
 - 核心：输入模块、状态管理模块、路由模块、独立文本美术语音回应库ID匹配模块、复合输出模块
-- 状态：复合记忆模块、好感模块、情绪模块、意图识别模块、时间模块、场景模块
-- 附加：商店模块、换装模块、独立剧情模式模块、独立对战模式模块、经营模式模块、小地图角色移动模块
+- 状态：复合记忆模块、好感模块、情绪模块、意图识别模块、时间模块、场景模块、好友识别模块
+- 附加：商店模块、换装模块、独立剧情模式模块、日常意外事件模块、棋牌小游戏模式模块、经营模式模块、小地图角色移动模块
+- 社交：好友聊天模块、好友限次数借用服装模块、多人对战模式模块
 - 系统：系统设置模块、界面UI隐藏/显示模块
 
 ## 当前状态
