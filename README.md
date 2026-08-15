@@ -21,6 +21,29 @@ Preset-logic response system for artificial affective terminal — based on caus
 - 社交：好友聊天模块、好友限次数借用服装模块、多人对战模式模块、个人机娘社交单次自定义文本/自定义live2d表情动作/AI生成语音模块
 - 系统：系统设置模块、界面UI隐藏/显示模块
 
+## 项目架构（unity/godot）
+主模块（DialogueEngine）
+    ├── 加载并管理所有独立模块
+    ├── 接收玩家输入 → 多次路由最终状态 → 获取回应ID
+    ├── 根据回应ID查询内置文件夹数据库
+    └── 输出：文本 + Live2D表情 + Live2D动作 + 语音
+内置文件夹数据库（ScriptableObject资产）
+    ├── 文本库：ID → 回应文本
+    ├── 表情库：ID → Live2D表情参数
+    ├── 动作库：ID → Live2D动作指令
+    ├── 语音库：ID → 语音片段
+    ├── 场景美术库：ID → 场景资源
+    └── UI美术库：ID → UI资源（或者固定编码）
+或者
+res://
+——core/
+——data/
+——Libraries/
+——Scenes/
+——TextLibraries/
+——art/
+——audio/
+
 ## 安装/使用指南
 - 声明：开源只是为了占坑，避免大厂凭借资源优势申请专利
 - 注释：轻资产项目，团队参与自行担责（国gal团队/二游团队文案水平低下原因导致市场不买单）
