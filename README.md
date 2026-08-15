@@ -33,7 +33,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 -    ├── 动作库：ID → Live2D动作指令
 -    ├── 语音库：ID → 语音片段
 -    ├── 场景美术库：ID → 场景资源（关键输入切换，不进入终端输出）
--    └── UI美术库：ID → UI资源（或固定编码）
+-    └── UI美术库：ID → UI资源（系统模块内可启用/隐藏）
 - 或者
 - res://
 - ——core/
@@ -41,6 +41,8 @@ Preset-logic response system for artificial affective terminal — based on caus
 - ——Libraries/
 - ——Scenes/
 - ——TextLibraries/
+- ————character1
+- ————character2
 - ——art/
 - ——audio/
 
