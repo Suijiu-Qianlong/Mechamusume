@@ -37,18 +37,18 @@ Preset-logic response system for artificial affective terminal — based on caus
 - 或者
 - res://
 - ——core/
-- ————MainModuleCompositeStateRouter.cs
+- ————MainModuleCompositeStateRouter.cs（复合路由状态机）
 - ——data/
 - ——Libraries/
-- ————AffectionStrings.cs
-- ————FixedMemoryLibrary.cs
-- ————ShortTermMemoryLibrary.cs
-- ————ImportantMemoryLibrary.cs
-- ————LifePathLibrary.cs
+- ————AffectionStrings.cs（好感度变量）
+- ————FixedMemoryLibrary.cs（常识记忆变量）
+- ————ShortTermMemoryLibrary.cs（短期记忆变量）
+- ————ImportantMemoryLibrary.cs（重要记忆变量）
+- ————LifePathLibrary.cs（生活路径变量）
 - ——Scenes/
 - ——TextLibraries/
-- ————character1
-- ————character2
+- ————character1（角色1）
+- ————character2（角色2）
 - ——art/
 - ——audio/
 
