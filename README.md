@@ -48,6 +48,14 @@ Preset-logic response system for artificial affective terminal — based on caus
 - ————其他模块自己写
 - ——Libraries/
 - ————AffectionStrings.cs（好感度变量）
+- ——————lic const string xx = "xx";（好感度状态）
+- ——————public const int xx_LOWER = -100;    public const int xx_UPPER = -81;（好感度范围阈值）
+- ——————public int currentAffection = 0;（当前好感度）
+- ——————if (currentAffection >= AffectionStrings.xx_LOWER && currentAffection <= AffectionStrings.xx_UPPER)
+		return AffectionStrings.xx;（当前好感度数值范围映射状态）
+- ——————return AffectionStrings.xx;（默认返回xx好感度状态）
+- ——————currentAffection += amount;（好感度数值变化）
+- ——————currentAffection = Mathf.Clamp(currentAffection, -100, 100);（好感度数值边界）
 - ————FixedMemoryLibrary.cs（常识记忆变量）
 - ————ShortTermMemoryLibrary.cs（短期记忆变量）
 - ————ImportantMemoryLibrary.cs（重要记忆变量）
