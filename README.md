@@ -27,7 +27,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 -    ├── 接收玩家输入 → 多次路由最终状态 → 获取回应ID
 -    ├── 根据回应ID查询内置文件夹数据库
 -    └── 输出：文本 + Live2D表情 + Live2D动作 + 语音
-内置文件夹数据库（ScriptableObject资产）
+- 内置文件夹数据库（ScriptableObject资产）
 -    ├── 文本库：ID → 回应文本
 -    ├── 表情库：ID → Live2D表情参数
 -    ├── 动作库：ID → Live2D动作指令
