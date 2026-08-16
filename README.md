@@ -86,7 +86,7 @@ Preset-logic response system for artificial affective terminal — based on caus
    - 详见Mechamusume仓库核心架构定义
 3. **后AI时代预设AI路线**：预设AI的正确路线，生成AI的结构性缺陷。
    - 详见Copywriting仓库
-以上定义框架已于公开时间戳锁定，任何后续定义须以本公开记录为参照。
+- 以上定义框架已于公开时间戳锁定，任何后续定义须以本公开记录为参照。
 
 ## License
 
