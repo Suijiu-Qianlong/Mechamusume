@@ -67,6 +67,10 @@ Preset-logic response system for artificial affective terminal — based on caus
 - ————character2（角色2）
 - ——art/
 - ——audio/
+- 以及多种路由方案对比
+- 复合路由路线：预设输入→当前变量A=当前角色状态其一→当前变量B=当前角色状态其一→……→当前变量E=当前角色状态其一→复合路由状态ID=当前变量A+B+C+D+E→资源库ID=复合路由状态ID→输出复合资源
+- 逐条守卫路线：预设输入→if当前角色状态=变量A+B+C+D+E→预设输出；if不是，则进入下一条if匹配
+- 简单路由路线：预设输入→无法实现多状态路由
 
 ## 安装/使用指南
 - 声明：开源只是为了占坑，避免大厂凭借资源优势申请专利
