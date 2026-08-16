@@ -89,6 +89,8 @@ Preset-logic response system for artificial affective terminal — based on caus
   - 路由ID（字符串） → 资源库ID（字符串）
   - 例如：变量A=1, 变量B=2 → 路由ID="12" → 资源库ID="RES_12"
   - 变量A=3, 变量B=4 → 路由ID="34" → 资源库ID="RES_34"
+- 
+- #本人技术核心定义（全域ID映射=无限跃迁；复合变量ID映射输出唯一结果=量子态原子出固定想要组合）
 
 ## 安装/使用指南
 - 声明：开源只是为了占坑，避免大厂凭借资源优势申请专利
