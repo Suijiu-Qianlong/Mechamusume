@@ -109,7 +109,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 本仓库及其关联体系已公开锁定以下定义框架：
 1. **逻辑因果律方法论**：以可观测事实为起点进行推演，非数学符号验证。
    - 详见Copywriting仓库
-2. **复合路由状态回应系统**：输入→复合路由状态机→输出，三段式最短路径。
+2. **复合路由状态映射机-预设AI回应系统 CRSM-PARS**：输入→复合路由状态机→输出，三段式最短路径。
    - 详见Mechamusume仓库核心架构定义
 3. **后AI时代预设AI路线**：预设AI的正确路线，生成AI的结构性缺陷。
    - 详见Copywriting仓库
