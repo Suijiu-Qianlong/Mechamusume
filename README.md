@@ -100,8 +100,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 - 注释：轻资产项目，团队参与自行担责（国gal团队/二游团队文案水平低下原因导致市场不买单）
 - 安装：你们可以自己按照需求用GPT等AI付费版写代码（程序员实习生用AI都能写的玩意，你们还要我系统架构师给你们写啊）
 
-## 作者信息
-- 逻辑链已推演完成，工程架构正在搭建。
+## 版权人信息
 - 详见抖音号：25048587714（岁久潜龙）
 
 ## 定义权声明
@@ -114,8 +113,9 @@ Preset-logic response system for artificial affective terminal — based on caus
    - 详见Copywriting仓库
 - 以上定义框架已于公开时间戳锁定，任何后续定义须以本公开记录为参照。
 
-## 商业用途
-- 商业使用需要额外授权，非商业使用无需额外授权
+## 商业授权声明
+- 本成果的MIT协议仅涵盖非商业使用。任何商业用途（包括大厂产品开发）需获得版权所有人的额外书面授权。
+- 本架构定向服务于企业级产品开发端，非商业使用者不受此限。
 
 ## License
 
