@@ -1,7 +1,7 @@
 # Mechamusume（机娘）
 Preset-logic response system for artificial affective terminal — based on causal-chain architecture.
 - 基于逻辑因果律的机娘回应系统原型。
-- 关键词：Composite Routing State Mapper - Preset AI Response System；Causal Logic；ID Mapping；Infinite Transition；
+- 关键词：Composite Routing State Mapper - Preset AI Response System；Causal Logic；Quantum Leap (Universal State Mapping)；
 
 ## 核心架构（复合路由状态映射机-预设AI回应系统 CRSM-PARS）
 - 技术原型：小行星化学成分航天采集器（天问二号），技术核心：多隔离任务模块的守卫条件状态切换
@@ -9,10 +9,10 @@ Preset-logic response system for artificial affective terminal — based on caus
 - 真实实验：2026年中科院高能物理所的反Λ重子与普通质子碰撞并湮灭、2026年美国布鲁克海文国家实验室重离子碰撞使真空中产生了超过一百对的质子与反质子
 - 逻辑因果律：可观测事实推演，非数学符号验证（爱因斯坦、维拉·罗宾的学术流派）
 - **技术实现：预设对话选项/input手动输入 → 复合路由状态映射机（可带意图识别模块） → 输出预设文本/语音/live2d美术形象回应（可接入api进行算法拟合文本输出）**
-- 回应终端：每个游戏角色的对话文本由作者本人撰写或筛选填入，核心回应文本10000条+变体文本100000条
+- 回应终端：每个游戏角色的对话文本由作者本人撰写或筛选填入，核心回应文本10000条+变体文本100000条（假定5个变量的复合组合状态）
 - 预设AI/生成AI：可选择原生预设逻辑链回应系统（人格稳定）或接入外部API进行角色文本拟合输出（可能幻觉）
 - 生成AI技术原理：API模型+RAG知识库（预设文本）=算法拟合输出
-- 适用场景：开放世界游戏NPC拟真交互、二次元手游主界面看板娘触碰交互、类视觉小说游戏女主日常交互
+- 适用场景：开放世界游戏NPC拟真交互、二次元手游主界面看板娘触碰交互、类视觉小说游戏女主日常交互、预设AI互动产品
 
 ## 可拆卸模块
 - 核心：输入模块、状态管理模块、路由模块、单角色独立文本/美术/语音回应库ID匹配模块、复合输出模块
