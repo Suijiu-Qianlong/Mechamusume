@@ -115,6 +115,9 @@ Preset-logic response system for artificial affective terminal — based on caus
    - 详见Copywriting仓库
 - 以上定义框架已于公开时间戳锁定，任何后续定义须以本公开记录为参照。
 
+## 商业用途
+- 商业使用需要额外授权，非商业使用无需额外授权
+
 ## License
 
 MIT
