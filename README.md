@@ -116,7 +116,8 @@ Preset-logic response system for artificial affective terminal — based on caus
 - 安装：可根据本架构按照自身需求用GPT等AI写代码
 
 ## 版权人信息
-- 详见抖音号：25048587714（岁久潜龙）
+- 抖音号：25048587714（岁久潜龙）
+- 自称：元序列 · 逻辑因果律会会长 · 首席战略科学家 · 顶尖系统架构师
 
 ## 定义权声明
 本仓库及其关联体系已公开锁定以下定义框架：
