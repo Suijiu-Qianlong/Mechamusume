@@ -98,6 +98,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 2. 计算：当前路由ID = 变量A的值 + 变量B的值 + 变量C的值 + ...
 3. 查询映射表：当前路由ID → 资源库ID
 4. 输出：通过资源库ID获取对应的文本/表情/动作/语音
+- 注释：其他方案也差不多的，就是进行了耦合程度变化，实现逻辑一致，就像你做同一数学题各种解题思路
 
 ### 映射表结构
 - 路由ID（字符串） → 资源库ID（字符串）
