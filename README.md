@@ -2,6 +2,7 @@
 Preset-logic response system for artificial affective terminal — based on causal-chain architecture.
 - 基于逻辑因果律的机娘回应系统原型。
 - 关键词：Composite Routing State Mapper - Preset AI Response System；Causal Logic；Quantum Leap (Universal State Mapping)；
+- 友情提示：看不懂的可以自己用AI给你们解释，除非你们觉得自己比AI的极速量子阅读和理性逻辑理解能力强
 
 ## 核心架构（复合路由状态映射机-预设AI回应系统 CRSM-PARS）
 - 技术原型：小行星化学成分航天采集器（天问二号），技术核心：多隔离任务模块的守卫条件状态切换-无需人工控制自主探索功能
