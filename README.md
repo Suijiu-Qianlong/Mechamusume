@@ -71,7 +71,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 - ————character2（角色2）
 - ——art/
 - ——audio/
-- 注释：完整代码就是我故意不写出来的，你们意会
+- 注释：完整代码就是我故意不写出来的，你们意会，中文逻辑≠英文代码
 
 ## 架构注释
 - **本人复合路由状态映射逻辑定义如下（权利要求）**
