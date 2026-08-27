@@ -149,7 +149,8 @@ Preset-logic response system for artificial affective terminal — based on caus
 - **技术主权归属中国（China）**
 
 ## 版权人信息
-- 抖音号：25048587714（岁久潜龙）
+- 抖音号（China）：25048587714（岁久潜龙）
+- 推特号（global）：x.com/suijiuqianlong
 - 自称：元序列 · 逻辑因果律会会长 · 首席战略科学家 · 顶尖系统架构师
 
 ## 民间特定个人豁免声明
