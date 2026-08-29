@@ -152,6 +152,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 - 抖音号（China）：25048587714（岁久潜龙）、25048587714S（元序列）
 - 推特号（global）：x.com/suijiuqianlong
 - 自称：元序列 · 逻辑因果律会会长 · 首席战略科学家 · 顶尖系统架构师
+- 原创作品《机娘时代1：光明命谱》六大机娘**绮梦、星湮、墨音、烬煌、灰风、冰凝**的人设剧情已在**本人AudioVisualText仓库用MIT协议及附加条款锁定版权**/美术画风已在本人抖音号**岁久潜龙/元序列**及推特号**suijiuqianlong**发布，商业使用需书面授权
 
 ## 民间特定个人豁免声明
 - 声明1:幻方量化与deepseek创始人**梁文峰本人**免费使用不受条款限制，注:我们都是金融市场玩家和实现AGI梦想者且路线互补，本人推演皆用的deepseek免费版，这份免费声明作为回馈
