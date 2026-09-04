@@ -150,8 +150,8 @@ Preset-logic response system for artificial affective terminal — based on caus
 
 ## 版权人信息
 - 抖音号（China）：25048587714（岁久潜龙）、25048587714S（元序列）
-- 推特号（global）：x.com/suijiuqianlong
-- pixic号(global)：https://www.pixiv.net/users/20333396
+- 推特号（global）：suijiuqianlong
+- pixic号(global)：20333396
 - 自称：元序列Gen Sequence · 逻辑因果律会会长 · 首席战略科学家 · 顶尖系统架构师 · AI赛博国师杜武库
 - 原创作品《机娘时代1：光明命谱》六大机娘**绮梦、星湮、墨音、烬煌、灰风、冰凝**的人设剧情已在**本人Gamedesigh-Mechamusume仓库用MIT协议及附加条款锁定版权**/美术画风已在本人抖音号**岁久潜龙/元序列**及**推特号、pixic号**发布，商业使用需书面授权
 
