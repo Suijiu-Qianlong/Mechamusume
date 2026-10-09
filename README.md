@@ -185,7 +185,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 - gitee（China）备份仓库：qianlongs-wine-of-delight（Suijiu Qianlong）
 - github（global）在先公开：Suijiu-Qianlong（Suijiu Qianlong）
 - MIT协议开源仓库：Mechamusume（技术版权©）、Gamedesigh-Mechamusume（IP版权©）
-- 原创作品小说《机娘乱武：光明命谱》和预设AI互动产品《元·机娘深度回应》六大机娘**绮梦、星湮、墨音、烬煌、灰风、冰凝**的人设剧情已在**本人Gamedesigh-Mechamusume仓库用MIT协议及附加条款锁定版权**/美术画风已在本人抖音号**元序列**及**pixiv号**发布，商业使用需书面授权
+- 原创作品小说《机娘乱武：光明命谱》和预设AI互动产品《元·机娘深度回应》六大机娘**绮梦、星湮、墨音、烬煌、灰风、冰凝**的人设剧情已在**本人Gamedesigh-Mechamusume仓库用MIT协议及中文著作权条款锁定版权**/美术画风已在本人抖音号**元序列**及**pixiv号**发布，商业使用需书面授权
 - 美术画风**文字表达** Live2d：软线条+渐变浅色系头发+平涂+漫画表情+自然光柔和漫反射+眼睛闪闪亮亮 / 插画CG：软线条+渐变浅色系头发+伪厚涂+动画表情+自然光柔和漫反射+眼睛适配环境色+渐变层次感身体涂色+偏淡粉色肌肤+微微通透服饰 / 轻小说插画视觉呈现效果：低饱和高亮度浅色相软线条治愈感+轻薄通透去油清爽空气感+多层次渐变阴影立体感+人物环境适配色调整体协调感 / 画风具体细节：三层深浅色相（正午直射漫反射高光面|自然散射均匀光面|自然散射均匀暗面），主体自然光柔和次表面散射SSS+轻微镜面反射。腿脚色相渲染，通透白丝一层肉光面+两侧肉阴面+一条白高光面线+膝盖突出重肉色+脚内外侧浅肉色重肉色层次铺开。环境与人物协调，人物头身服饰协调，同样层次光暗色相。头身比偏写实人体结构，脸蛋萌系偏软糯线条，插画表情偏写实，live2d表情偏漫画风夸张萌系颜表情。【注：此为AI生图的人类智力投入公开证据，宣称本人所发AI图作品的版权，而非宣称美术画风的版权】创作意图为留白意境含蓄美中式机娘ACG形象艺术表达。
 - 目标定义：AGI终点•机械造人（感性&&理性双通道具象AGI）。感性通道走CRSM-PARS人格稳定c端附加内容（角色时装等）付费，理性通道走transformer工作效率b端token（云端服务费）付费。主从身份定义：机控师&&机娘。
 
@@ -212,3 +212,4 @@ Preset-logic response system for artificial affective terminal — based on caus
 ## License
 
 MIT
+中文著作权条款
