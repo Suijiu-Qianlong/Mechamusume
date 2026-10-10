@@ -27,6 +27,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 - 系统：系统设置模块、界面UI隐藏/显示模块
 
 ## 项目架构（unity/godot）
+### 逻辑组织
 - 主模块（DialogueEngine）
 -    ├── 加载并管理所有独立模块
 -    ├── 接收玩家输入 → 多次路由最终状态 → 获取回应ID
@@ -39,7 +40,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 -    ├── 语音库：ID → 语音片段
 -    ├── 场景美术库：ID → 场景资源（关键输入切换，不进入终端输出）
 -    └── UI美术库：ID → UI资源（系统模块内可启用/隐藏）
-- #或者
+### 代码组织（the "Software"）// 目录、命名空间、具体代码等
 - res://
 - ——core/
 - ————MainModuleCompositeStateRouter.cs（复合路由状态机/切换当前互动角色）
