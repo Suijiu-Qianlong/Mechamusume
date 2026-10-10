@@ -212,6 +212,5 @@ Preset-logic response system for artificial affective terminal — based on caus
 - 最终提醒：任何谴责对本人无效，跟规则系统的白纸黑字说去吧，本版权人无义务作出任何回应（本README为本版权人完成的文字表达作品和格式条款合同）
 
 ## License
-
 MIT
-中文著作权条款
+- 注：The copyright of the Chinese text does not fall within the scope of the "Software".中文文本的著作权不属于the "Software"的范围。Commercial use of the Chinese copyright requires written authorization from the copyright holder.中文著作权的商业使用需获得版权人的书面授权。
