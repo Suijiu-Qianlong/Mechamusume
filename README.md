@@ -53,7 +53,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 - ————其他模块自己写
 - ——Libraries/
 - ————AffectionStrings.cs（好感度变量）
-- ——————lic const string xx = "xx";（好感度状态）
+- ——————public const string xx = "xx";（好感度状态）
 - ——————public const int xx_LOWER = -100;    public const int xx_UPPER = -81;（好感度范围阈值）
 - ——————public int currentAffection = 0;（当前好感度）
 - ——————if (currentAffection >= AffectionStrings.xx_LOWER && currentAffection <= AffectionStrings.xx_UPPER)
@@ -72,7 +72,7 @@ Preset-logic response system for artificial affective terminal — based on caus
 - ————character2（角色2）
 - ——art/
 - ——audio/
-- 注释：目录组织、命名空间名、函数名、类名、变量名、参数值、注释、不同耦合程度实现等，你们可以用AI自己写，我就留个逻辑架构。
+- 注释：目录组织、命名空间名、函数名、类名、变量名、参数值、注释、不同耦合程度实现等，你们可以用AI自己写，我就留个逻辑架构，反正现在github上都是AI代码了也没什么难度，组合穷举穷举不完，只写一种容易让人先入为主限制思路开放。
 
 ## 架构方案、实现逻辑及映射表结构
 ### 复合路由状态映射逻辑定义
