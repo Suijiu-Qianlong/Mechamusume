@@ -168,10 +168,10 @@ A deterministic architecture solution for deep expansion of intelligent AI in di
 6. 机械造人AGI终点：通过“预先学习”模拟人类神经元网络的“输入-处理-输出”工程机制安置在机械芯片，不采用生物大脑等脑机接口方式捕捉电信号，内置预设库确定性输出（仅需电力维持）与联网功能接受额外信息进行概率拟合输出双接口，实现感性模拟与理性模拟深度互动机械造人，机械体在“启动”与“停止”电路指令后能够自主活动（交付工作、储存状态、维持运转等）或待机。详细内容参考本README的“关于角色深度互动的逻辑定义”部分。
 
 ## 版权人信息（元序列Gen Sequence && 岁久潜龙Suijiu Qianlong）
-- 抖音号（名字形象）：25048587714S（元序列）
-- pixiv号(名字形象)：20333396（Gen Sequence）
-- gitee（备份）：qianlongs-wine-of-delight（Suijiu Qianlong）
-- github（开源）：Suijiu-Qianlong（Suijiu Qianlong）
+- 抖音号（原创机娘名字形象）：25048587714S（元序列）
+- pixiv号（原创机娘名字形象）：20333396（Gen Sequence）
+- gitee（备份开源仓库）：qianlongs-wine-of-delight（Suijiu Qianlong）
+- github（开源仓库）：Suijiu-Qianlong（Suijiu Qianlong）
 - 使用仓库声明引用来源是作者“元序列”的开源方案即可，不限制商业使用。
 
 ## License
