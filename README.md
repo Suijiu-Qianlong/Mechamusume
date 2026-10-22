@@ -172,7 +172,7 @@ A deterministic architecture solution for deep expansion of intelligent AI in di
 - pixiv号(名字形象)：20333396（Gen Sequence）
 - gitee（备份）：qianlongs-wine-of-delight（Suijiu Qianlong）
 - github（开源）：Suijiu-Qianlong（Suijiu Qianlong）
-- 使用仓库保留MIT开源许可证即可，自由使用。
+- 使用仓库声明引用来源是作者“元序列”的开源方案即可，不限制商业使用。
 
 ## License
 MIT
