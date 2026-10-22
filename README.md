@@ -1,6 +1,5 @@
 # Mechamusume（机娘）
-Preset-logic response system for artificial affective terminal — based on causal-chain architecture.
-- 前言：基于逻辑因果律的机娘深度回应系统原型。
+A deterministic architecture solution for deep expansion of intelligent AI in dialogue and behavior, enabling the practical deployment of artificial companions with specific autonomous personalities.（一套让智能AI在对话/行为上进行深度拓展的确定性架构方案，让具有特定自主人格的人工伴侣能够落地应用。）
 - 关键词：Composite Routing State Mapper - Preset AI Response System；Causal Logic；Quantum Leap (Universal State Mapping)；
 
 ## 核心架构（复合路由状态映射机-预设AI回应系统 CRSM-PARS）
