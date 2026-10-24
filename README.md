@@ -1,5 +1,5 @@
 # Mechamusume（机娘）
-A deterministic architecture solution for deep expansion of intelligent AI in dialogue and behavior, enabling the practical deployment of artificial companions with specific autonomous personalities.（一套让智能AI在对话/行为上进行深度拓展的确定性架构方案，让具有特定自主人格的人工伴侣能够落地应用。）
+- 摘要：A deterministic architecture solution for deep expansion of intelligent AI in dialogue and behavior, enabling the practical deployment of artificial companions with specific autonomous personalities.（一套让智能AI在对话/行为上进行深度拓展的确定性架构方案，让具有特定自主人格的人工伴侣能够落地应用。）/（対話と行動において知能AIの深い拡張を可能にする決定論的アーキテクチャ方案であり、特定の自律的人格を持つ人工伴侶の実用的な展開を可能にする。）
 - 关键词：Composite Routing State Mapper - Preset AI Response System；Causal Logic；Quantum Leap (Universal State Mapping)；
 
 ## 核心架构（复合路由状态映射机-预设AI回应系统 CRSM-PARS）
